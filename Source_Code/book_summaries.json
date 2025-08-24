@@ -1,0 +1,74 @@
+[
+  {
+    "title": "1984",
+    "themes": ["distopie", "control social", "libertate", "adevăr", "manipulare"],
+    "short_summary": "O societate totalitară condusă de Big Brother supraveghează fiecare gest. Winston Smith caută libertatea și adevărul.",
+    "full_summary": "Romanul lui George Orwell descrie o societate distopică în care Partidul controlează realitatea prin supraveghere și propagandă. Winston încearcă să-și păstreze umanitatea, dar devine ținta unui regim care zdrobește orice încercare de libertate."
+  },
+  {
+    "title": "Brave New World",
+    "themes": ["distopie", "tehnologie", "condiționare socială", "fericire artificială"],
+    "short_summary": "O lume aparent perfectă, menținută prin tehnologie și condiționare.",
+    "full_summary": "Huxley imaginează o societate în care oamenii sunt fabricați și condiționați pentru roluri prestabilite. Fericirea este menținută cu 'soma', dar prețul este pierderea individualității și a profunzimii emoționale."
+  },
+  {
+    "title": "The Hobbit",
+    "themes": ["aventură", "prieteni", "magie", "curaj"],
+    "short_summary": "Bilbo pornește într-o aventură neașteptată cu pitici pentru a recupera comoara de la Smaug.",
+    "full_summary": "Bilbo, un hobbit comod, este recrutat de Gandalf și de piticii conduși de Thorin pentru a-și recăpăta regatul de la dragonul Smaug. Descoperă ingeniozitate, curaj și prietenii neașteptate."
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "themes": ["magie", "prieteni", "curaj", "alegere"],
+    "short_summary": "Harry află că este vrăjitor și începe școala Hogwarts.",
+    "full_summary": "Harry, orfan crescut de rude abuzive, descoperă la 11 ani că este vrăjitor. Împreună cu Hermione și Ron, învață puterea prieteniei și importanța alegerilor morale."
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "themes": ["eroism", "prietenie", "sacrificiu", "bine vs rău"],
+    "short_summary": "Frodo pornește să distrugă Inelul Puterii, însoțit de o Frăție unită.",
+    "full_summary": "Primul volum al trilogiei lui Tolkien urmărește formarea Frăției Inelului și începutul călătoriei spre Mordor. Temele centrale sunt prietenia, sacrificiul și rezistența la corupția puterii."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "themes": ["justiție", "prejudecăți", "empatie", "maturizare"],
+    "short_summary": "Atticus Finch apără un bărbat de culoare acuzat pe nedrept.",
+    "full_summary": "Harper Lee explorează rasismul instituțional și inocența copilăriei. Atticus reprezintă integritatea morală, iar povestea, narată de Scout, arată cum empatia demontează prejudecăți adânci."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "themes": ["iubire", "clasă socială", "prejudecăți", "maturizare"],
+    "short_summary": "Elizabeth Bennet navighează norme sociale și prejudecăți către iubire.",
+    "full_summary": "Romanul lui Jane Austen satirizează moravurile și presiunile căsătoriei. Dincolo de romantism, urmărește transformarea Elizabethei și a lui Darcy."
+  },
+  {
+    "title": "Dune",
+    "themes": ["politică", "ecologie", "mesianism", "putere"],
+    "short_summary": "Pe Arrakis, Paul Atreides devine central într-o luptă pentru resurse și destin.",
+    "full_summary": "Frank Herbert creează o epopee SF despre interdependența dintre mediu, religie și putere. Paul navighează profeții și intrigi pentru a-și împlini sau evita destinul."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "themes": ["alienare", "maturizare", "identitate"],
+    "short_summary": "Holden Caulfield rătăcește prin New York, căutând sens și autenticitate.",
+    "full_summary": "Salinger surprinde vocea unică a adolescenței, cu anxietăți, cinism și vulnerabilitate. Romanul problematizează ipocrizia socială și dorința de protejare a inocenței."
+  },
+  {
+    "title": "The Little Prince",
+    "themes": ["prietenie", "imaginație", "sensul vieții", "empatie"],
+    "short_summary": "Un prinț mic vizitează planete și învață despre iubire și responsabilitate.",
+    "full_summary": "Poveste filozofică despre copilărie, prietenie și înțelegerea celuilalt. Simplitatea alegorică ascunde reflecții profunde: esențialul e invizibil pentru ochi."
+  },
+  {
+    "title": "The Book Thief",
+    "themes": ["război", "prietenie", "curaj", "cuvinte"],
+    "short_summary": "În Germania nazistă, Liesel fură cărți și descoperă puterea cuvintelor.",
+    "full_summary": "Markus Zusak spune povestea lui Liesel Meminger, narată de Moartea, despre război, pierdere și umanitate. Cuvintele pot vindeca sau răni."
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "themes": ["război", "traumă", "prietenie", "deziluzie"],
+    "short_summary": "Un tânăr soldat german trăiește groaza tranșeelor în Primul Război Mondial.",
+    "full_summary": "Remarque descrie realismul crud al frontului și efectele de durată ale războiului asupra sufletului uman. O meditație asupra absurdității violenței."
+  }
+]

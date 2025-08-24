@@ -1,0 +1,5 @@
+chromadb>=1.0.20
+rich>=14.0.0
+python-dotenv>=1.0.1
+sentence-transformers>=3.0.1
+gpt4all>=2.8.2
