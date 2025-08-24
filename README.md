@@ -2,7 +2,7 @@
 
 ![Demo](Images/Demo.png)
 
-## 🔹 Overview
+## Overview
 **Smart Librarian** is an AI-powered chatbot that recommends books based on user interests.  
 It uses a **Retrieval-Augmented Generation (RAG)** pipeline with **ChromaDB** for semantic search and a custom tool to fetch **detailed summaries** of the recommended books.  
 
