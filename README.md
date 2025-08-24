@@ -1,4 +1,4 @@
-# 📚 Smart Librarian – AI with RAG + Tool (Local Version)
+# Smart Librarian – AI with RAG + Tool (Local Version)
 
 ![Demo](Images/Demo.png)
 
@@ -14,7 +14,7 @@ The project runs **fully locally** – using:
 
 ---
 
-## 🔹 Features
+## Features
 - Store 10+ book summaries in `book_summaries.json`
 - Semantic search with **ChromaDB**
 - Local embeddings via **Sentence-Transformers**
@@ -26,7 +26,7 @@ The project runs **fully locally** – using:
 
 ---
 
-## 🔹 Tech Stack
+## Tech Stack
 - [Python 3.10+](https://www.python.org/)
 - [ChromaDB](https://www.trychroma.com/) – vector store
 - [Sentence-Transformers](https://www.sbert.net/) – embeddings
@@ -36,7 +36,7 @@ The project runs **fully locally** – using:
 
 ---
 
-## 🔹 Setup (Windows PowerShell)
+## Setup (Windows PowerShell)
 
 ```powershell
 # 1. clone repo
